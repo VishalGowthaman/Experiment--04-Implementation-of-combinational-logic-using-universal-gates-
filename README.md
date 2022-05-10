@@ -47,8 +47,8 @@ Run the program and choose RTL viewer to get RTL realization.
 
 ```
 Program to design a Implementation of combinational logic using universal gates-  and verify its truth table in quartus using Verilog programming.
-Developed by: EZHIL MATHI R
-RegisterNumber:  212221230026
+Developed by: VISHAL GOWTHAMAN K R
+RegisterNumber:  212221230123
 
 
 F=((C'.B.A)'(D'.C.A)'(C.B'.A)')' using NAND gate:
